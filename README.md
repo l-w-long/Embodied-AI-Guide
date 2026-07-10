@@ -243,3 +243,6 @@ If you find this repository helpful, please consider citing:
 感谢 **无界智航、超维动力、香港大学MMLab、地瓜机器人、松灵机器人** 对本项目的支持
 
 ![](./files/images/sponsor.png)
+
+
+https://www.nvidia.cn/glossary/embodied-ai/
